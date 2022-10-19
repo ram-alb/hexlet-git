@@ -1,2 +1,2 @@
 No code No pain
-experiment with amend
+learning git add -i command
